@@ -1,0 +1,17 @@
+.Table {
+  overflow: auto;
+ }
+
+table {
+  margin: 0;
+}
+
+thead {
+  background-color: #333;
+  color: #fff;
+}
+
+table,
+td {
+  border: 1px solid #333;
+}
